@@ -16,7 +16,7 @@ GL 2D Plotter is a 2D plotting tool developed using OpenGL. It provides an inter
 - **POINTS**: Displays individual points.
 - **POLYGONS**: Connects all points to form a filled polygon.
 
-<img src="https://example.com/path/to/your.gif" alt="Demo GIF" width="300" />
+<img src="gl.gif" alt="Demo GIF" width="300" />
 
 ## Controls
 
