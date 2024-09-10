@@ -17,6 +17,7 @@ GL 2D Plotter is a 2D plotting tool developed using OpenGL. It provides an inter
 - **POLYGONS**: Connects all points to form a filled polygon.
 <img src="gl.gif" alt="Demo GIF" width="400" />
 ## Controls
+
 - **Add Points**: Left-click on the grid to plot points.
 - **Remove Points**: Right-click on the grid to remove the closest point.
 - **Change Drawing Mode**: Press keys `1` through `6` to switch between drawing modes:
