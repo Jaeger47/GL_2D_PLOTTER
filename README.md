@@ -27,4 +27,4 @@ GL 2D Plotter is a 2D plotting tool developed using OpenGL. It provides an inter
   - `4`: LINES
   - `5`: POINTS
   - `6`: POLYGONS
-
+![Demo GIF](gl.gif)
