@@ -31,4 +31,5 @@ GL 2D Plotter is a 2D plotting tool developed using OpenGL. It provides an inter
 
 ##Requirements to run:
 https://aka.ms/vs/17/release/vc_redist.x86.exe
+
 https://aka.ms/vs/17/release/vc_redist.x64.exe
